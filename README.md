@@ -1,6 +1,6 @@
 # Extreme Value Theory Bachelor's Thesis
 
-This repository contains the empirical work for a bachelor's thesis on the
+This repository contains the empirical work of a bachelor's thesis on the
 financial applications of Extreme Value Theory (EVT). The main focus is whether
 EVT methods can describe cryptocurrency tail risk and improve the measurement
 of losses during extreme market events.
